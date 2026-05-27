@@ -62,10 +62,10 @@ trustless_keygen/     # MPC-based distributed key generation
 ## Citation
 
 ```bibtex
-@article{bakr2026collaborative,
-  title   = {Collaborative Threshold Watermarking},
-  author  = {Bakr, Tameem and Ambreth, Anish and Lukas, Nils},
-  journal = {arXiv preprint arXiv:2602.10765},
-  year    = {2026}
+@inproceedings{bakr2026collaborative,
+  author    = {Bakr, Tameem and Ambreth, Anish and Lukas, Nils},
+  title     = {Collaborative Threshold Watermarking},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  year      = {2026},
 }
 ```
